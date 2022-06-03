@@ -1,6 +1,0 @@
-while (a < 2)
-    a = 4
-    if (true)
-        a = 2
-    end
-end
